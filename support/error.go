@@ -65,7 +65,7 @@ func Panik(err error, message string) {
 	} else {
 		fmt.Println(message)
 	}
-	fmt.Println("You can post your issue on https://github.com/maxsupermanhd/FactoCord-3.0/issues")
+	fmt.Println("You can post your issue on https://github.com/efisuby/FactoCord-3.0/issues")
 }
 
 // Critical checks error != nil, logs the error and closes the app

@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"path"
 
-	"github.com/maxsupermanhd/FactoCord-3.0/support"
+	"github.com/efisuby/FactoCord-3.0/support"
 )
 
 // ModJson is struct containing a slice of Mod.

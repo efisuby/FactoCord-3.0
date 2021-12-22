@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/maxsupermanhd/FactoCord-3.0/support"
+	"github.com/efisuby/FactoCord-3.0/support"
 )
 
 var ConfigCommandDoc = support.CommandDoc{

@@ -1,4 +1,4 @@
-module github.com/maxsupermanhd/FactoCord-3.0
+module github.com/efisuby/FactoCord-3.0
 
 go 1.14
 

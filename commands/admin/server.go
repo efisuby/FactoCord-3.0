@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/bwmarrin/discordgo"
-	"github.com/maxsupermanhd/FactoCord-3.0/support"
+	"github.com/efisuby/FactoCord-3.0/support"
 	"io"
 	"mime"
 	"net/http"

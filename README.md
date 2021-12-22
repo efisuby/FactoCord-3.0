@@ -43,7 +43,7 @@
  * Pre-built executable
  
 
-# For installation instructions see [INSTALL.md](https://github.com/maxsupermanhd/FactoCord-3.0/blob/master/INSTALL.md)
+# For installation instructions see [INSTALL.md](https://github.com/efisuby/FactoCord-3.0/blob/master/INSTALL.md)
 
 # Error reporting
 

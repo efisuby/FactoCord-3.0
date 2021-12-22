@@ -7,7 +7,7 @@ import (
 
 	"github.com/bwmarrin/discordgo"
 
-	"github.com/maxsupermanhd/FactoCord-3.0/support"
+	"github.com/efisuby/FactoCord-3.0/support"
 )
 
 func CacheUpdater(session *discordgo.Session) {

@@ -15,7 +15,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/maxsupermanhd/FactoCord-3.0/support"
+	"github.com/efisuby/FactoCord-3.0/support"
 )
 
 // Mod is a struct containing info about a mod.

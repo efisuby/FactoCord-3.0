@@ -3,7 +3,7 @@ package utils
 import (
 	"encoding/json"
 	"github.com/bwmarrin/discordgo"
-	"github.com/maxsupermanhd/FactoCord-3.0/support"
+	"github.com/efisuby/FactoCord-3.0/support"
 	"io/ioutil"
 	"net/http"
 	"strings"
